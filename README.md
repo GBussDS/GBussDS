@@ -1,17 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Foldit&weight=600&size=50&pause=10&color=2B8A73&background=2F27270B&center=true&vCenter=true&width=1000&height=120&lines=Welcome+to+my+Profile)](https://git.io/typing-svg)
 
 ## Sobre mim
-Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em busca de melhorar minhas habilidades em programação, há poucas coisas melhores que terminar um programa que você vê e pensa: "Nossa, isso ficou muito bom". Atualmente, estou estudando **Ciência de Dados** na **Fundação Getúlio Vargas** do Rio de Janeiro, onde eu moro.
+Olá! Me chamo Guilherme Buss da Silva. Atualmente, estou estudando **Ciência de Dados e Inteligência Artificial** na **Fundação Getúlio Vargas** do Rio de Janeiro, onde eu moro.
 
 ## Projetos
-- Dashboard Comercial: Criação de um Dashboard interativo feito em Python, usando Dash, Pandas e Numpy.
-- Website de Marcenaria: Desenvolvimento, do design à produção, de um website usando Html, Css e JS com React
-- Delta Vee: Bot de Discord usando Python com mais de 10 comandos funcionais e com deploy em servidor online.
+- Atualmente desenvolvento um jogo em lua usando Love2D pela Altair Game Studio.
+- Relacionados a formação do curso.
 
 ## Habilidades
-- Linguagens de programação: Python, Java, R, HTML, CSS.
+- Linguagens de programação: Python, Java, HTML, CSS, Lua.
 - Ferramentas de controle de versão: Git, GitHub.
-- Programas de edição de código: VS Code, RStudio.
+- Programas de edição de código: VS Code.
 
 ![mm](template.png)
 
@@ -24,10 +23,10 @@ Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em 
 
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou aberto a novos projetos e atividades que possam melhorar minhas hablidades como programador.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgabrielsg&layout=compact&theme=radical) ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgabrielsg&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbussds&layout=compact&theme=radical) ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbussds&theme=dracula)
 
 ![mm](template.png)
 
-| Python | R | CSS | HTML | Java |
-|--------|---|-----|------|------|
-| [![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)](https://github.com/jgabrielsg/jgabrielsg) | [![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)](https://github.com/jgabrielsg/jgabrielsg) | [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://github.com/jgabrielsg/jgabrielsg) | [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)]([link_para_projeto](https://github.com/jgabrielsg/jgabrielsg)) | [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)]([link_para_projeto](https://github.com/jgabrielsg/jgabrielsg)) |
+| Python | CSS | HTML | Java | Lua |
+|--------|-----|------|------|-----|
+| [![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)](https://github.com/gbussds/gbussds) | [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://github.com/gbussds/gbussds) | [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)]([link_para_projeto](https://github.com/gbussds/gbussds)) | [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)]([link_para_projeto](https://github.com/gbussds/gbussds)) | [![Lua](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)]([link_para_projeto](https://github.com/gbussds/gbussds)) |
