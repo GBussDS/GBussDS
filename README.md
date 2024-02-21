@@ -18,7 +18,7 @@ Olá! Me chamo Guilherme Buss da Silva. Atualmente, estou estudando **Ciência d
 ## Contato
 - [LinkedIn](https://br.linkedin.com/in/guilherme-buss-da-silva-b0b93829b?trk=public_profile_browsemap)
 - [Instagram](https://www.instagram.com/bussdasilva/)
-- Email: guilherme_buss_ds@gmail.com
+- Email: guilherme.buss.ds@gmail.com
 
 ![Python](Python.png)
 
