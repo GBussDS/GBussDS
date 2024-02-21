@@ -6,6 +6,7 @@ Olá! Me chamo Guilherme Buss da Silva. Atualmente, estou estudando **Ciência d
 ## Projetos
 - Atualmente desenvolvento um jogo em lua usando Love2D pela Altair Game Studio.
 - Relacionados a formação do curso.
+- Relacionados a Empresa Junior da FGV.
 
 ## Habilidades
 - Linguagens de programação: Python, Java, HTML, CSS, Lua.
