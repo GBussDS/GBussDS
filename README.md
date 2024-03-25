@@ -4,6 +4,7 @@
 Olá! Me chamo Guilherme Buss da Silva. Atualmente, estou estudando **Ciência de Dados e Inteligência Artificial** na **Fundação Getúlio Vargas** do Rio de Janeiro, onde eu moro.
 
 ## Projetos
+- Hackathon: Dashboard em python utilizando os dados do DataRio, visualizações feitas usando Geopandas, plotly.express, folium.
 - Atualmente desenvolvento um jogo em lua usando Love2D pela Altair Game Studio.
 - Relacionados a formação do curso.
 - Relacionados a Empresa Junior da FGV.
