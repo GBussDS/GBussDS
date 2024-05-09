@@ -13,7 +13,7 @@ Olá! Me chamo Guilherme Buss da Silva. Atualmente, estou estudando **Ciência d
 - Relacionados a Empresa Junior da FGV.
 
 ## Habilidades
-- Linguagens de programação: Python, Java, HTML, CSS, Lua.
+- Linguagens de programação: Python, Next.js, HTML, CSS, Lua.
 - Ferramentas de controle de versão: Git, GitHub.
 - Programas de edição de código: VS Code.
 
@@ -32,6 +32,6 @@ Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou a
 
 ![mm](template.png)
 
-| Python | CSS | HTML | Java | Lua |
+| Python | CSS | HTML | Next.js | Lua |
 |--------|-----|------|------|-----|
 | [![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)](https://github.com/gbussds/gbussds) | [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://github.com/gbussds/gbussds) | [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)]([link_para_projeto](https://github.com/gbussds/gbussds)) | [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)]([link_para_projeto](https://github.com/gbussds/gbussds)) | [![Lua](https://img.shields.io/badge/lua-%23ED8B00.svg?style=flat&logo=lua&logoColor=white)]([link_para_projeto](https://github.com/gbussds/gbussds)) |
