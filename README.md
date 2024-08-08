@@ -32,7 +32,9 @@ Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou a
 <br>
 </div>
 <div align="center">
+  
 | Python | CSS | HTML | Lua | C++ |
 |--------|-----|------|-----|-----|
 | [![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)](https://github.com/gbussds/gbussds) | [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://github.com/gbussds/gbussds) | [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)]([link_para_projeto](https://github.com/gbussds/gbussds)) | [![Lua](https://img.shields.io/badge/lua-%23ED8B00.svg?style=flat&logo=lua&logoColor=white)]([link_para_projeto](https://github.com/gbussds/gbussds)) | [![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)](https://github.com/gbussds/gbussds) |
+  
 </div>
