@@ -1,19 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Foldit&weight=600&size=50&pause=10&color=2B8A73&background=2F27270B&center=true&vCenter=true&width=1000&height=120&lines=Welcome+to+my+Profile)](https://git.io/typing-svg)
-
 ## Sobre mim
 Olá! Me chamo Guilherme Buss da Silva. Atualmente, estou estudando **Ciência de Dados e Inteligência Artificial** na **Fundação Getúlio Vargas** do Rio de Janeiro, onde eu moro.
 
-- Consultor da FGV Jr.
+- Ex-Consultor da FGV Jr.
 - Membro da Altair Game Studio.
 
 ## Projetos
 - Hackathon: Dashboard em python utilizando os dados do DataRio, visualizações feitas usando Geopandas, plotly.express, folium.
-- Atualmente desenvolvento um jogo em lua usando Love2D pela Altair Game Studio.
+- Atualmente desenvolvento um jogo em GDScript usando Godot pela Altair Game Studio.
 - Relacionados a formação do curso.
 - Relacionados a Empresa Junior da FGV.
 
 ## Habilidades
-- Linguagens de programação: Python, Next.js, HTML, CSS, Lua.
+- Linguagens de programação: Python, C++, HTML, CSS, Lua e GDScript.
 - Ferramentas de controle de versão: Git, GitHub.
 - Programas de edição de código: VS Code.
 
@@ -24,13 +22,10 @@ Olá! Me chamo Guilherme Buss da Silva. Atualmente, estou estudando **Ciência d
 - [Instagram](https://www.instagram.com/bussdasilva/)
 - Email: guilherme.buss.ds@gmail.com
 
-![Python](Python.png)
-
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou aberto a novos projetos e atividades que possam melhorar minhas hablidades como programador.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbussds&layout=compact&theme=radical) ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbussds&theme=dracula)
-
-![mm](template.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbussds&layout=compact&theme=radical) 
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbussds&theme=dracula)
 
 | Python | CSS | HTML | Next.js | Lua | C++ |
 |--------|-----|------|------|-----|-----|
