@@ -11,7 +11,7 @@ Olá! Me chamo Guilherme Buss da Silva. Atualmente, estou estudando **Ciência d
 - Relacionados a Empresa Junior da FGV.
 
 ## Habilidades
-- Linguagens de programação: Python, C++, HTML, CSS, Lua e GDScript.
+- Linguagens de programação: Python, C++, Lua e GDScript.
 - Ferramentas de controle de versão: Git, GitHub.
 - Programas de edição de código: VS Code.
 
